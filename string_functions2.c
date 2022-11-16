@@ -1,4 +1,4 @@
-nclude "hsh.h"
+#include "hsh.h"
 
 /**
  * _strcpy - copies a string
