@@ -1,4 +1,4 @@
-#include "hsh.h"
+include "hsh.h"
 
 /**
  * parse_left_redirect - parses redirect directives from input
