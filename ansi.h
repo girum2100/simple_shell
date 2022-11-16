@@ -1,4 +1,4 @@
-#ifndef ANSI_COLOR
+ifndef ANSI_COLOR
 #define ANSI_COLOR
 
 /*Regular text*/
