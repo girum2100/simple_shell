@@ -1,4 +1,4 @@
-.H "simple_shell" 1 "April 2019" ""
+.TH "simple_shell" 1 "April 2019" ""
 .SH NAME
 simple_shell - a shell (standard command line interpreter)
 .SH SYNOPSIS
