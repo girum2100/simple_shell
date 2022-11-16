@@ -1,4 +1,4 @@
-#ifndef GETLINE_H
+ifndef GETLINE_H
 #define GETLINE_H
 
 #include <stdlib.h>
