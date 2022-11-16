@@ -1,4 +1,4 @@
-#include "hsh.h"
+include "hsh.h"
 
 /**
  * clear_info - initializes info_t struct
